@@ -1,4 +1,5 @@
 # TD8_PyhtonDataScience
 # Ceci est un test de modification
 
-tout vient à point à qui sait attendre
+"Tout vient à point à qui sait attendre",
+Proverbe Chinois
